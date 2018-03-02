@@ -29,10 +29,12 @@ class ViewController: NSViewController {
     
     func test2() {
         print("test TinyL2 new test")
+        print("test John new test")
     }
 
     func remove() {
         print("Removed")
+        print("test John new test")
     }
 }
 
