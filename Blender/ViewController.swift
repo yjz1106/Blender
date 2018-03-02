@@ -24,6 +24,7 @@ class ViewController: NSViewController {
 
     func test() {
         print("test TinyL new test")
+        print("test John new test")
     }
     
     func test2() {
