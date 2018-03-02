@@ -23,7 +23,11 @@ class ViewController: NSViewController {
     }
 
     func test() {
-        print("test")
+        print("test TinyL new test")
+    }
+    
+    func test2() {
+        print("test TinyL2 new test")
     }
 
 }
