@@ -23,7 +23,7 @@ class ViewController: NSViewController {
     }
 
     func test() {
-        print("test")
+        print("TinyLiu")
     }
 
 }
