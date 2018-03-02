@@ -26,5 +26,8 @@ class ViewController: NSViewController {
         print("test TinyL new test")
     }
 
+    func remove() {
+        print("Removed")
+    }
 }
 
